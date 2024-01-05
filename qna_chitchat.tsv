@@ -1,0 +1,72 @@
+Question    Answer
+What is ODM?    Operational Decision Manager
+Define BRMS.    Business Rules Management System
+Name the key components of ODM.    Decision Center, Decision Server
+What is the purpose of Decision Center?    Centralized rule repository and management
+Explain Decision Server.    Executes and enforces business rules in runtime
+What is a rule artifact in ODM?    A representation of a business rule in the rule repository
+How does ODM support rule versioning?    Allows the creation and management of rule versions
+Define Decision Tables.    Grid-based representation of decision logic in ODM
+What is a Rule Task in ODM?    Integration point for invoking business rules in a process
+Name the programming languages ODM supports.    Java, .NET, REST
+Explain the purpose of Rule Governance.    Ensures the quality, consistency, and compliance of business rules
+What is a Decision Service in ODM?    A unit of deployment that encapsulates a set of related business rules
+How does ODM handle rule execution?    Uses an inference engine to evaluate and execute rules
+Describe the rule authoring process.    Create, test, and deploy rules using Decision Center
+What is the purpose of RuleSets in ODM?    Logical grouping of rules for better organization and management
+How does ODM support decision modeling?    Uses Decision Model and Notation (DMN) for graphical decision modeling
+Explain the concept of rule templates.    Reusable rule structures for consistent rule creation
+What is a RuleApp in ODM?    A packaged collection of rules and associated artifacts
+How does ODM handle complex rule dependencies?    Manages dependencies through rule resolution algorithms
+Describe the role of Rule Execution Server.    Executes business rules and manages rule execution runtime
+What is a BOM (Business Object Model) in ODM?    Represents the business entities and data used by rules
+Explain the purpose of a Rule Team Server.    Collaborative environment for rule development and testing
+How does ODM handle rule conflicts?    Provides conflict resolution strategies and prioritization
+What is the purpose of rule testing in ODM?    Validate and verify rule behavior before deployment
+How does ODM integrate with external systems?    Offers connectors, APIs, and integration frameworks
+Explain the role of a Rule Task in BPMN.    Integrates business rules into BPMN (Business Process Model and Notation)
+What is rule chaining in ODM?    Sequential execution of rules based on dependencies
+How does ODM support rule deployment?    Uses RuleApps for packaging and deploying rules
+Define decision traceability in ODM.    Ability to trace and understand the impact of decisions on business outcomes
+What is the purpose of a rule repository?    Centralized storage for managing and organizing rules
+Explain the concept of rule harvesting.    Automatic extraction of rules from existing systems or documents
+How does ODM handle rule version control?    Supports versioning through Decision Center and source control systems
+Define rule scaffolding in ODM.    Automated generation of rules based on predefined patterns
+What is the role of a Business Analyst in ODM?    Collaborates with stakeholders to define and refine business rules
+Explain the significance of rule metadata.    Provides information about rules, such as purpose, author, and last modification
+How does ODM support rule authoring collaboration?    Allows multiple users to work on rules simultaneously with version control
+What is a rule project in ODM?    A container for organizing and managing related rule artifacts
+How does ODM ensure rule consistency?    Provides validation and verification tools during rule authoring
+Define the concept of rule orchestration.    Coordinated execution of multiple rules to achieve a business objective
+What is the purpose of a rule deployment descriptor?    Configuration file specifying rule deployment settings
+Explain the role of a Rule Designer in ODM.    Graphical interface for creating and editing business rules
+How does ODM handle rule performance optimization?    Offers profiling and tuning tools for efficient rule execution
+Define the concept of decision services orchestration.    Coordinated execution of multiple decision services to achieve a business objective
+What is a rule execution group in ODM?    A logical grouping of rule execution servers for scalability and management
+How does ODM handle rule parameterization?    Allows the use of parameters to make rules more flexible and reusable
+Explain the purpose of rule simulation in ODM.    Predicts the impact of rules on decision outcomes without actual execution
+What is the role of a RuleSet in decision modeling?    Represents a set of related decisions that share common elements
+How does ODM support rule debugging?    Provides debugging tools and traceability features during rule testing
+Define the concept of a rule package in ODM.    A collection of related rules bundled together for deployment and management
+What is the purpose of a decision requirement diagram in ODM?    Graphical representation of decision requirements and dependencies
+How does ODM handle rule exception handling?    Allows the definition of exception conditions and actions in rules
+Explain the concept of rule authoring guidelines.    Best practices and standards for creating consistent and maintainable rules
+What is the purpose of a rule audit log in ODM?    Records changes to rules for tracking and compliance purposes
+How does ODM support rule retirement?    Allows the marking of rules as deprecated or obsolete
+Define the concept of a decision outcome in ODM.    The result or conclusion of a decision based on the evaluation of rules
+What is the significance of rule inference in ODM?    The process of deducing conclusions based on given facts and rules
+How does ODM handle rule conflict resolution?    Provides conflict resolution strategies and tools for resolution
+Explain the role of a Rule Administrator in ODM.    Manages rule artifacts, deployment, and user access permissions
+What is the purpose of a rule parameter mapping in ODM?    Links parameters defined in rules to external data sources or variables
+How does ODM support rule documentation?    Allows the creation and maintenance of documentation for rules and artifacts
+Define the concept of a rule repository manager.    Manages the storage, retrieval, and organization of rules in the repository
+What is the purpose of a decision model in ODM?    Represents the structure and dependencies of a decision using graphical notation
+How does ODM ensure rule consistency across environments?    Supports promotion and deployment processes for consistent rule movement
+Explain the role of a Decision Analyst in ODM.    Analyzes and models decision requirements to define business rules
+What is a decision requirement in ODM?    A high-level business need or objective that drives the creation of decision models and rules
+How does ODM handle rule backward compatibility?    Provides tools and strategies for ensuring existing rules work with new versions
+Define the concept of a decision logic in ODM.    The logic or conditions used to evaluate and determine decision outcomes
+What is the role of a Rule Tester in ODM?    Tests and validates rules to ensure they function as intended
+How does ODM handle rule traceability?    Tracks the lineage and impact of rules throughout their lifecycle
+Explain the purpose of rule parameterization in decision services.    Enables dynamic configuration of rules through parameters in decision services
+What is the significance of rule analytics in ODM?    Uses data and analytics to measure and improve the performance of business rules
